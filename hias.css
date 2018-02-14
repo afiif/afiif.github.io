@@ -1,0 +1,50 @@
+body	{
+	background-image: url("../img/bg.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+#H11	{
+	border: solid 1px rgb(217,217,217);
+	width: 30%;
+	position: relative;
+	background-color: rgba(185,205,229,0.4);
+	text-align: center;
+	left: 35%
+}
+
+#H12	{
+	border: solid 1px rgb(217,217,217);
+	width: 30%;
+	position: relative;
+	background-color: rgba(185,205,229,0.4);
+	padding: 10px;
+	text-align: left;
+	right: 5%;
+	float: right;
+}
+
+#H13	{
+	border: solid 1px rgb(217,217,217);
+	width: 30%;
+	position: relative;
+	background-color: rgba(185,205,229,0.4);
+	padding: 10px;
+	left: 5%;
+}
+
+#H14	{
+	border: solid 1px rgb(217,217,217);
+	width: 89%;
+	position: relative;
+	background-color: rgba(185,205,229,0.4);
+	padding: 10px;
+	text-align: left;
+	left: 5%;
+	right: 5%;
+}
+
+#H15	{
+	color: rgb(185,205,229);
+}
